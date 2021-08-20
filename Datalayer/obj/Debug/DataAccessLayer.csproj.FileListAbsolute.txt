@@ -1,0 +1,12 @@
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\bin\Debug\Datalayer.dll.config
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\bin\Debug\Datalayer.dll
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\bin\Debug\Datalayer.pdb
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\bin\Debug\EntityFramework.dll
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\bin\Debug\EntityFramework.xml
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\obj\Debug\Datalayer.dll
+C:\Programacion\programacion.net\BancoFinandina\Datalayer\obj\Debug\Datalayer.pdb

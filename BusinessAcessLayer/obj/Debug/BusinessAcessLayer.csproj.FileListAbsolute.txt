@@ -1,0 +1,15 @@
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.pdb
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csproj.AssemblyReference.cache
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csproj.CoreCompileInputs.cache
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.dll
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.pdb
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\BusinessAcessLayer.dll.config
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\Datalayer.dll
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\EntityFramework.dll
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\Datalayer.pdb
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\Datalayer.dll.config
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\EntityFramework.xml
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Programacion\programacion.net\BancoFinandina\BusinessAcessLayer\obj\Debug\BusinessAcessLayer.csproj.CopyComplete
